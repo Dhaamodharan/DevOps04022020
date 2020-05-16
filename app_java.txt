@@ -20,3 +20,5 @@ Thi is branchone adding
 other person commit
 
 second person commit
+
+Forth person
